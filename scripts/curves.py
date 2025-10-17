@@ -1,0 +1,3 @@
+###
+# Create an IRCurve class
+###

@@ -1,0 +1,21 @@
+# Ignore virtual environment
+venv/
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environment and IDE files
+.env
+*.log
+*.sqlite3
+
+# Common IDEs
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
